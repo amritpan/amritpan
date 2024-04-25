@@ -14,7 +14,7 @@ I have also worked on Swift’s type inference algorithm in the Swift compiler a
   <li><a href="https://forums.swift.org/t/key-path-inference-and-diagnostic-improvements-an-update/69632"> Key Path Inference and Diagnostic Improvements</a></li> 
 </ul>
 
-Prior to this, I worked as an iOS engineer after undergrad at UC Berkeley and am currently working on my MS in Computer Science at Georgia Tech where I am currently exploring the debug output for LLVM’s optimization passes for a custom static analysis tool.
+Prior to this, I worked as an iOS engineer after undergrad at UC Berkeley and am currently working on my MS in Computer Science at Georgia Tech where I am exploring the debug output for LLVM’s optimization passes for a custom static analysis tool.
 
 <!--
 **amritpan/amritpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
