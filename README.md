@@ -3,6 +3,7 @@
 I’m an implementation-oriented engineer who enjoys working on programming language design and compilers. I have written several Swift Language Evolution proposals. Below is a running list:
 
 <ul>
+  <li><a href="https://forums.swift.org/t/se-0438-metatype-keypaths/72172"> Metatype Keypaths</a></li>
   <li><a href="https://forums.swift.org/t/pitch-allow-accessor-macros-on-let-declarations/66684"> Allow Accessor Macros on Let Declarations</a></li>
   <li><a href="https://forums.swift.org/t/pitch-allow-property-wrappers-on-let-declarations/61750"> Allow Property Wrappers on Let Declarations</a></li>
   <li><a href="https://forums.swift.org/t/pitch-refining-property-wrapper-related-initialization/52049"> Refining Property-Wrapper-Related Initialization</a></li>
